@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Faro de Vigo</title>
+        <link>https://www.farodevigo.es</link>
+        <description>Actualidad de la ciudad de Vigo y alrededores</description>
+        <language>es-ES</language>
+        <image>
+            <title>Canal RSS</title>
+            <url>https://estaticos-cdn.farodevigo.es/images/logo-farodevigo.png?id=c58ba5dbdfe4e6dada45</url>
+            <link>https://www.farodevigo.es/</link>
+            <width>128</width>
+            <height>128</height>
+        </image>
+        <item>
+            <title>Noticia 1</title>
+            <link>https://www.farodevigo.es/gran-vigo/2022/04/01/puerto-ensaya-drones-camaras-alta-64512442.html</link>
+            <pubDate>Fri, 1 Apr 2022 07:42:00 +0200</pubDate>
+            <description>
+                <![CDATA[
+            <h1>El Puerto ensaya el uso de drones con cámaras de muy alta resolución para tareas de vigilancia</h1>
+            <img src="https://estaticos-cdn.prensaiberica.es/clip/eb827c40-a484-42db-aa75-12e39e46b0a2_21-9-aspect-ratio_default_1133751.jpg">
+            <p>Realiza pruebas en la terminal Ro-Ro de Bouzas con Gradiant y Orange | El proyecto forma parte del Plan Nacional 5G de red.es</p>
+            <p><a href="https://www.farodevigo.es/gran-vigo/2022/04/01/puerto-ensaya-drones-camaras-alta-64512442.html">Leer m&aacute;s...</a></p>
+            ]]>
+            </description>
+        </item>
+        <item>
+            <title>Noticia 2</title>
+            <link>https://www.farodevigo.es/gran-vigo/2022/04/01/nuevo-hotel-samil-luce-nombre-64531290.html</link>
+            <pubDate>fri, 1 Apr 2022 08:32:00 +0200</pubDate>
+            <description>
+                <![CDATA[<h1>El nuevo hotel de Samil ya luce su "nombre"</h1>
+            <img src="https://estaticos-cdn.prensaiberica.es/clip/2fa07ea8-b839-4362-bbd4-1d0402fd7bea_16-9-aspect-ratio_default_1133884.jpg">
+            <p>El complejo espera abrir sus puertas a comienzos del verano</p>
+            <p><a href="https://www.farodevigo.es/gran-vigo/2022/04/01/nuevo-hotel-samil-luce-nombre-64531290.html">Leer m&aacute;s...</a></p>
+            ]]>
+            </description>
+        </item>
+    </channel>
+</rss>
